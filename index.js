@@ -20,8 +20,10 @@ function divide(string) {
   parseInt('string' / 10);
 }
 
-/*add(a,b)
-subtract(a,b)
+function add(a,b) {
+  return a + b;
+}
+/*subtract(a,b)
 multiply(a,b)
 divide(a,b)
 increment(n)
