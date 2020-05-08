@@ -1,6 +1,6 @@
 function makeInt(string) {
   parseInt('string', 10);
-  add()
+  add();
 }
 
 function preserveDecimal(string) {
