@@ -7,3 +7,4 @@ function preserveDecimal(string) {
 }
 
 add()
+console.log(string)
