@@ -23,9 +23,17 @@ function divide(string) {
 function add(a,b) {
   return a + b;
 }
-/*subtract(a,b)
-multiply(a,b)
-divide(a,b)
-increment(n)
+function subtract(a,b) {
+  return a - b;
+}
+
+function multiply(a,b) {
+  return a * b;
+}
+function divide(a,b) {
+  return a / b;
+}
+
+/*increment(n)
 decrement(n)
 makeInt(n)*/
