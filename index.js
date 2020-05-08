@@ -1,2 +1,2 @@
 makeInt(String);
-  parseInt('String', 10);
+  parseInt('String', 10)
