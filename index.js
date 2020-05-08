@@ -6,7 +6,9 @@ function preserveDecimal(string) {
   parseFloat('string', 10);
 }
 
-add(string + 10)
+function add(string) {
+  parseInt('string' + 10);
+}
 /*subtract(string - 10)
 multiply(string * 10)
 divide (string / 10)
