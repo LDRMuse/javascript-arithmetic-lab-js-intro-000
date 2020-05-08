@@ -37,8 +37,8 @@ function divide(a,b) {
 function increment(n) {
   return ++n;
 }
-functio decrement(n) {
-  retun --n;
+function decrement(n) {
+  return --n;
 }
 function makeInt(n) {
   return n;
