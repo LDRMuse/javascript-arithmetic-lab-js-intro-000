@@ -34,6 +34,12 @@ function divide(a,b) {
   return a / b;
 }
 
-/*increment(n)
-decrement(n)
-makeInt(n)*/
+function increment(n) {
+  return ++n;
+}
+functio decrement(n) {
+  retun --n;
+}
+function makeInt(n) {
+  return n;
+}
