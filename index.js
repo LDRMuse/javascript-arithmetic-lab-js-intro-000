@@ -9,10 +9,18 @@ function preserveDecimal(string) {
 function add(string) {
   parseInt('string' + 10);
 }
-/*subtract(string - 10)
-multiply(string * 10)
-divide (string / 10)
-add(a,b)
+function subtract(string) {
+  parseInt('string' - 10);
+}
+function multiply(string) {
+  parseInt('string' * 10);
+}
+
+function divide(string) {
+  parseInt('string' / 10);
+}
+
+/*add(a,b)
 subtract(a,b)
 multiply(a,b)
 divide(a,b)
